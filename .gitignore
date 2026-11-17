@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+*.log
+
+.vercel
+.env*
+.trae/
+.wrangler/
+_tmp_docx_render/
+tsconfig.tsbuildinfo
